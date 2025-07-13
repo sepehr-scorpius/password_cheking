@@ -1,12 +1,12 @@
-# strong password
+# Strong password
 the password should be:
 
 \>length 7
 
 includes digits
 
-includes upper case
+includes uppercase
 
-includes lower case
+includes lowercase
 
-includes puntuations
+includes punctuations
